@@ -1,6 +1,10 @@
 # Geo-Data App
 
 A full-stack web application for managing and visualizing geospatial data, built with **Next.js** and **Express**.
+#Demo
+<img width="1435" alt="Screenshot 2025-01-12 at 18 42 23" src="https://github.com/user-attachments/assets/f6dba2f8-de79-4ee0-b789-881bf4ac3683" />
+<img width="1440" alt="Screenshot 2025-01-12 at 15 56 55" src="https://github.com/user-attachments/assets/f3c2f457-3b5e-4828-b142-3af66bffe304" />
+<img width="1435" alt="Screenshot 2025-01-12 at 18 37 40" src="https://github.com/user-attachments/assets/0f827a37-3db5-4801-9e54-fdabe03ea427" />
 
 ## Features
 
